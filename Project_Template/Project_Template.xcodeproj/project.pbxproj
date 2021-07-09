@@ -20,6 +20,7 @@
 		B5EE7378269872F00020BD8A /* UIApplication+.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EE7377269872F00020BD8A /* UIApplication+.swift */; };
 		B5EE737A269874580020BD8A /* UICollectionView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EE7379269874580020BD8A /* UICollectionView+.swift */; };
 		B5EE737C2698763C0020BD8A /* UITableView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EE737B2698763C0020BD8A /* UITableView+.swift */; };
+		B5EE737E2698785C0020BD8A /* UIView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EE737D2698785C0020BD8A /* UIView+.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		B5EE7377269872F00020BD8A /* UIApplication+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIApplication+.swift"; sourceTree = "<group>"; };
 		B5EE7379269874580020BD8A /* UICollectionView+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UICollectionView+.swift"; sourceTree = "<group>"; };
 		B5EE737B2698763C0020BD8A /* UITableView+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITableView+.swift"; sourceTree = "<group>"; };
+		B5EE737D2698785C0020BD8A /* UIView+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				B5EE7377269872F00020BD8A /* UIApplication+.swift */,
 				B5EE7379269874580020BD8A /* UICollectionView+.swift */,
 				B5EE737B2698763C0020BD8A /* UITableView+.swift */,
+				B5EE737D2698785C0020BD8A /* UIView+.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				B5EE737A269874580020BD8A /* UICollectionView+.swift in Sources */,
 				B5EE7378269872F00020BD8A /* UIApplication+.swift in Sources */,
 				B5EE735B26986E270020BD8A /* SceneDelegate.swift in Sources */,
+				B5EE737E2698785C0020BD8A /* UIView+.swift in Sources */,
 				B5EE7376269872520020BD8A /* CGSize+.swift in Sources */,
 				B5EE7374269871F10020BD8A /* Array+.swift in Sources */,
 			);
